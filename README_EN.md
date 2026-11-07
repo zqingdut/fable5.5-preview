@@ -1,6 +1,6 @@
 [中文](README.md) | **English**
 
-# Fable 5.5 Testing Series — Claude Fable 5.5 Hands-on Case Index
+# Fable5.5 Preview — Claude Fable 5.5 Hands-on Case Index
 
 An index of single-prompt animation, 3D and interactive tests of **Claude Fable 5.5** posted on X (Twitter): links, prompts, build time & cost, and result highlights — all in one place.
 
