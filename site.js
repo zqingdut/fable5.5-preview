@@ -1,4 +1,4 @@
-// Fable 5.5 Testing Series — waterfall front-end (bilingual zh / en).
+// Fable5.5 Preview — waterfall front-end (bilingual zh / en).
 // Data source: data/cases.json (single source of truth, auto-maintained).
 // English content uses title_en / summary_en when present, else falls back
 // to the original fields. Layout: JS-managed flex columns — expanding a
