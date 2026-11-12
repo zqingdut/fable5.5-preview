@@ -13,6 +13,11 @@
 
 | 预览 | Part | 标题 | 作者 | 耗时 | 成本 | 时长 | 日期 | 原帖 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="assets/previews/2119886268188536884.webp" width="160" /> | — | Fable 5.5 动态剪辑 | @SadAlbert10 | — | — | 64.295s | 2026-11-09 | [链接](https://x.com/SadAlbert10/status/2119886268188536884) |
+| <img src="assets/previews/2120289881389953164.webp" width="160" /> | — | 导弹制导与雷达演进视频 | @hk512u | — | — | 125.062s | 2026-11-10 | [链接](https://x.com/hk512u/status/2120289881389953164) |
+| <img src="assets/previews/2120333128711733707.webp" width="160" /> | — | SplatMaker 新体验 | @tommyoshima | — | — | 66.366s | 2026-11-11 | [链接](https://x.com/tommyoshima/status/2120333128711733707) |
+| <img src="assets/previews/2120443904323391519.webp" width="160" /> | — | Hi ChatGPT 视觉化动画 | @petergostev | — | — | 211.231s | 2026-11-11 | [链接](https://x.com/petergostev/status/2120443904323391519) |
+| <img src="assets/previews/2120458669586325787.webp" width="160" /> | — | 纯代码吉卜力动画短片 | @Yuyummmmmmmmmm | — | — | 100.138s | 2026-11-11 | [链接](https://x.com/Yuyummmmmmmmmm/status/2120458669586325787) |
 | <img src="assets/previews/2119909996645298519.webp" width="160" /> | — | 一句话生成UE5赛车游戏 | @GPTabby | — | — | 20.466s | 2026-11-09 | [链接](https://x.com/GPTabby/status/2119909996645298519) |
 | <img src="assets/previews/2119951538345201781.webp" width="160" /> | — | 彼岸动画生成 | @ishuagra02 | — | — | 58.5s | 2026-11-10 | [链接](https://x.com/ishuagra02/status/2119951538345201781) |
 | <img src="assets/previews/2120048561035649081.webp" width="160" /> | — | 飞机飞行视频生成测试 | @JamesDa55049936 | — | — | 15s | 2026-11-10 | [链接](https://x.com/JamesDa55049936/status/2120048561035649081) |
@@ -96,6 +101,10 @@
 
 | 预览 | 案例名称与摘要 | 技术栈 & 状态 | 原始 Prompt / 链接 |
 | :--- | :--- | :--- | :--- |
+| <img src="assets/previews/2119886268188536884.webp" width="220" /> | **Fable 5.5 动态剪辑**<br/>推文展示 Fable 5.5 生成的动态剪辑效果，未公开 Prompt 与链接。<br/>*By @SadAlbert10 (2026-11-09)* | 🏷️ 灰度路由/传闻 | [🔗 原推文](https://x.com/SadAlbert10/status/2119886268188536884)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
+| <img src="assets/previews/2120289881389953164.webp" width="220" /> | **导弹制导与雷达演进视频**<br/>用 Fable 5.5 生成讲解相控阵雷达、ARH 与 CEC 的科普视频，直观又惊艳<br/>*By @hk512u (2026-11-10)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/hk512u/status/2120289881389953164)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
+| <img src="assets/previews/2120443904323391519.webp" width="220" /> | **Hi ChatGPT 视觉化动画**<br/>用 Fable 5.5 将 GPT-4.5 的「Hi ChatGPT」文本视觉化，动态效果更具吸引力且值得观看。<br/>*By @petergostev (2026-11-11)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/petergostev/status/2120443904323391519)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
+| <img src="assets/previews/2120458669586325787.webp" width="220" /> | **纯代码吉卜力动画短片**<br/>19小时多智能体用JS+Python逐帧生成吉卜力风短片，镜头切换流畅、角色稳定不跑样。<br/>*By @Yuyummmmmmmmmm (2026-11-11)* | `JavaScript` `Python`<br/>🏷️ 实测验证 | [🔗 原推文](https://x.com/Yuyummmmmmmmmm/status/2120458669586325787)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2119951538345201781.webp" width="220" /> | **彼岸动画生成**<br/>Fable 5.5 生成动画短片，展现动态叙事与画面表现。<br/>*By @ishuagra02 (2026-11-10)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/ishuagra02/status/2119951538345201781)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2120048561035649081.webp" width="220" /> | **飞机飞行视频生成测试**<br/>作者让 Fable 5.5 自主设计15秒飞机飞行视频，观感未达惊艳<br/>*By @JamesDa55049936 (2026-11-10)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/JamesDa55049936/status/2120048561035649081)<br/><details><summary>查看 Prompt</summary><pre>请帮我生成一个飞机飞行的视频，大概15秒，你自己去设计。</pre></details> |
 | <img src="assets/previews/2120050142006927515.webp" width="220" /> | **Fable 5.5 复刻宣传片**<br/>让 Fable 5.5 复刻官方宣传片，一小时产出，与原片约九成相似。<br/>*By @EianLu (2026-11-10)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/EianLu/status/2120050142006927515)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
@@ -177,6 +186,7 @@
 
 | 预览 | 案例名称与摘要 | 技术栈 & 状态 | 原始 Prompt / 链接 |
 | :--- | :--- | :--- | :--- |
+| <img src="assets/previews/2120333128711733707.webp" width="220" /> | **SplatMaker 新体验**<br/>作者用 Fable 5.5 打磨 SplatMaker Beta3，体验渐佳。<br/>*By @tommyoshima (2026-11-11)* | `Claude Code`<br/>🏷️ 实测验证 | [🔗 原推文](https://x.com/tommyoshima/status/2120333128711733707)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2116878661035106515.webp" width="220" /> | **Fable 5.5 一次成型佳作**<br/>仅凭引用推文作参考，Fable 5.5 一次生成美观且富有想法的作品。<br/>*By @chetaslua (2026-11-01)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/chetaslua/status/2116878661035106515)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2116893197939224714.webp" width="220" /> | **Fable完胜Opus**<br/>同提示词让模型自选风格，Fable 5.5 全面胜过 Opus 5.5。<br/>*By @notjazii (2026-11-01)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/notjazii/status/2116893197939224714)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2116919086521499730.webp" width="220" /> | **Fable 5.5 一键生成可乐罐**<br/>单提示生成可乐罐视觉，附 Opus 路由输出与证据链接<br/>*By @abhinavflac (2026-11-01)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/abhinavflac/status/2116919086521499730) / [🕹️ 在线试玩](https://t.co/fXdvBeRyAo)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
