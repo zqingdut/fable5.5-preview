@@ -13,6 +13,11 @@
 
 | 预览 | Part | 标题 | 作者 | 耗时 | 成本 | 时长 | 日期 | 原帖 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="assets/previews/2119861870588989676.webp" width="160" /> | — | 旧CRT电视锤击物理测试 | @dromexa | — | — | 14.083s | 2026-11-09 | [链接](https://x.com/dromexa/status/2119861870588989676) |
+| <img src="assets/previews/2120528609165083012.webp" width="160" /> | — | 未见阳光的伞 | @DaDw26 | — | — | 45.013s | 2026-11-11 | [链接](https://x.com/DaDw26/status/2120528609165083012) |
+|  | — | JavaScript 打造的 Fable 作品 | @LexnLin | — | — | — | 2026-11-12 | [链接](https://x.com/LexnLin/status/2120686766571040950) |
+| <img src="assets/previews/2120821188825878774.webp" width="160" /> | — | 一键走进户型图 | @morbianai | — | — | 10.433s | 2026-11-12 | [链接](https://x.com/morbianai/status/2120821188825878774) |
+| <img src="assets/previews/2120852840520564823.webp" width="160" /> | — | 寿司游戏动画惊艳 | @redeses01 | — | — | 34.083s | 2026-11-12 | [链接](https://x.com/redeses01/status/2120852840520564823) |
 | <img src="assets/previews/2119886268188536884.webp" width="160" /> | — | Fable 5.5 动态剪辑 | @SadAlbert10 | — | — | 64.295s | 2026-11-09 | [链接](https://x.com/SadAlbert10/status/2119886268188536884) |
 | <img src="assets/previews/2120289881389953164.webp" width="160" /> | — | 导弹制导与雷达演进视频 | @hk512u | — | — | 125.062s | 2026-11-10 | [链接](https://x.com/hk512u/status/2120289881389953164) |
 | <img src="assets/previews/2120333128711733707.webp" width="160" /> | — | SplatMaker 新体验 | @tommyoshima | — | — | 66.366s | 2026-11-11 | [链接](https://x.com/tommyoshima/status/2120333128711733707) |
@@ -101,6 +106,7 @@
 
 | 预览 | 案例名称与摘要 | 技术栈 & 状态 | 原始 Prompt / 链接 |
 | :--- | :--- | :--- | :--- |
+| <img src="assets/previews/2120528609165083012.webp" width="220" /> | **未见阳光的伞**<br/>Fable 5.5 用 p5.js 生成艺术动画，创意尚可但交付常令人困惑。<br/>*By @DaDw26 (2026-11-11)* | `p5.js`<br/>🏷️ 实测验证 | [🔗 原推文](https://x.com/DaDw26/status/2120528609165083012)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2119886268188536884.webp" width="220" /> | **Fable 5.5 动态剪辑**<br/>推文展示 Fable 5.5 生成的动态剪辑效果，未公开 Prompt 与链接。<br/>*By @SadAlbert10 (2026-11-09)* | 🏷️ 灰度路由/传闻 | [🔗 原推文](https://x.com/SadAlbert10/status/2119886268188536884)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2120289881389953164.webp" width="220" /> | **导弹制导与雷达演进视频**<br/>用 Fable 5.5 生成讲解相控阵雷达、ARH 与 CEC 的科普视频，直观又惊艳<br/>*By @hk512u (2026-11-10)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/hk512u/status/2120289881389953164)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2120443904323391519.webp" width="220" /> | **Hi ChatGPT 视觉化动画**<br/>用 Fable 5.5 将 GPT-4.5 的「Hi ChatGPT」文本视觉化，动态效果更具吸引力且值得观看。<br/>*By @petergostev (2026-11-11)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/petergostev/status/2120443904323391519)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
@@ -165,6 +171,8 @@
 
 | 预览 | 案例名称与摘要 | 技术栈 & 状态 | 原始 Prompt / 链接 |
 | :--- | :--- | :--- | :--- |
+| 暂无预览 | **JavaScript 打造的 Fable 作品**<br/>作者称用 JavaScript 做出 Fable 5.5 作品，随后更正为 5.2，细节未公开<br/>*By @LexnLin (2026-11-12)* | `JavaScript`<br/>🏷️ 灰度路由/传闻 | [🔗 原推文](https://x.com/LexnLin/status/2120686766571040950)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
+| <img src="assets/previews/2120821188825878774.webp" width="220" /> | **一键走进户型图**<br/>上传别墅平面图即可第一人称漫游，角落小地图实时定位，效果逼真。<br/>*By @morbianai (2026-11-12)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/morbianai/status/2120821188825878774)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2116945827738665060.webp" width="220" /> | **交互式3D古帆船**<br/>零样本生成可交互3D历史帆船，场景逼真生动。<br/>*By @abhinavflac (2026-11-01)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/abhinavflac/status/2116945827738665060)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2117284178521923949.webp" width="220" /> | **Fable 5.5 体素创作**<br/>Fable 5.5 展示体素创作效果，作者附证明链接。<br/>*By @hakmgpt (2026-11-02)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/hakmgpt/status/2117284178521923949) / [🕹️ 在线试玩](https://t.co/JDzd1mB3CU)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2117377130388656569.webp" width="220" /> | **可探索体素山村**<br/>Fable 5.5 生成可步入探索的立体体素山村，角色与氛围细节丰富。<br/>*By @abhinavflac (2026-11-02)* | `Three.js` `WebGL` `HTML5`<br/>🏷️ 实测验证 | [🔗 原推文](https://x.com/abhinavflac/status/2117377130388656569) / [🕹️ 在线试玩](https://t.co/tvtvg3noEa)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
@@ -174,6 +182,8 @@
 
 | 预览 | 案例名称与摘要 | 技术栈 & 状态 | 原始 Prompt / 链接 |
 | :--- | :--- | :--- | :--- |
+| <img src="assets/previews/2119861870588989676.webp" width="220" /> | **旧CRT电视锤击物理测试**<br/>同一提示生成可锤击碎裂的旧CRT电视，碎片飞散物理效果优于Gemini。<br/>*By @dromexa (2026-11-09)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/dromexa/status/2119861870588989676)<br/><details><summary>查看 Prompt</summary><pre>an old CRT TV you can smash with a hammer.</pre></details> |
+| <img src="assets/previews/2120852840520564823.webp" width="220" /> | **寿司游戏动画惊艳**<br/>用 Fable 5.5 制作寿司小游戏，动画效果流畅出色。<br/>*By @redeses01 (2026-11-12)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/redeses01/status/2120852840520564823)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2119909996645298519.webp" width="220" /> | **一句话生成UE5赛车游戏**<br/>仅凭单条提示词生成虚幻引擎5赛车游戏，效果令人震惊<br/>*By @GPTabby (2026-11-09)* | `Unreal Engine 5`<br/>🏷️ 灰度路由/传闻 | [🔗 原推文](https://x.com/GPTabby/status/2119909996645298519)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2119487544396312901.webp" width="220" /> | **Fable 5.5 果冻碾压**<br/>同题果冻游戏，Fable 5.5 藏树莓、加计分脉冲条，远胜 Gemini。<br/>*By @0xRhinoX (2026-11-08)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/0xRhinoX/status/2119487544396312901) / [🕹️ 在线试玩](https://t.co/O2aymtgrYI)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2118789381662429475.webp" width="220" /> | **马里奥变Gary水管工**<br/>同提示复刻马里奥1-1，Fable 5.5 却原创水管工Gary，成本悬殊。<br/>*By @0xRhinoX (2026-11-06)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/0xRhinoX/status/2118789381662429475) / [🕹️ 在线试玩](https://t.co/9d2BN5RVhu)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
