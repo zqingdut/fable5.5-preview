@@ -13,6 +13,8 @@ An index of single-prompt animation, 3D and interactive tests of **Claude Fable 
 
 | Preview | Part | Title | Author | Time | Cost | Length | Date | Post |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="assets/previews/2119822824533532996.webp" width="160" /> | — | AI Grows Morning Glory Animation | @camperaigg | — | — | 32.042s | 2026-11-09 | [Link](https://x.com/camperaigg/status/2119822824533532996) |
+| <img src="assets/previews/2119859309698003069.webp" width="160" /> | — | AI-Built Backrooms: No Exit | @0xRhinoX | — | — | 18.005s | 2026-11-09 | [Link](https://x.com/0xRhinoX/status/2119859309698003069) |
 | <img src="assets/previews/2119861870588989676.webp" width="160" /> | — | CRT TV Smash Physics Test | @dromexa | — | — | 14.083s | 2026-11-09 | [Link](https://x.com/dromexa/status/2119861870588989676) |
 | <img src="assets/previews/2120528609165083012.webp" width="160" /> | — | The Umbrella Who Never Saw the Sun | @DaDw26 | — | — | 45.013s | 2026-11-11 | [Link](https://x.com/DaDw26/status/2120528609165083012) |
 |  | — | JavaScript Demo Claimed From Fable 5.5 | @LexnLin | — | — | — | 2026-11-12 | [Link](https://x.com/LexnLin/status/2120686766571040950) |
@@ -106,6 +108,7 @@ An index of single-prompt animation, 3D and interactive tests of **Claude Fable 
 
 | Preview | Case & Summary | Stack & Status | Prompt / Links |
 | :--- | :--- | :--- | :--- |
+| <img src="assets/previews/2119822824533532996.webp" width="220" /> | **AI Grows Morning Glory Animation**<br/>One prompt generated a 32-second morning glory growth animation with 139,667 soil grains, vine wrapping, and piano leaf sounds.<br/>*By @camperaigg (2026-11-09)* | `Blender` `Cycles` `Claude Code`<br/>🏷️ 实测验证 | [🔗 Original post](https://x.com/camperaigg/status/2119822824533532996)<br/><details><summary>View Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2120528609165083012.webp" width="220" /> | **The Umbrella Who Never Saw the Sun**<br/>Fable 5.5 used p5.js for an artistic animation; creative output was often confusing to deliver.<br/>*By @DaDw26 (2026-11-11)* | `p5.js`<br/>🏷️ 实测验证 | [🔗 Original post](https://x.com/DaDw26/status/2120528609165083012)<br/><details><summary>View Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2119886268188536884.webp" width="220" /> | **Fable 5.5 Motion Edit**<br/>Tweet claims Fable 5.5 created a motion edit; no prompt or demo link was disclosed.<br/>*By @SadAlbert10 (2026-11-09)* | 🏷️ 灰度路由/传闻 | [🔗 Original post](https://x.com/SadAlbert10/status/2119886268188536884)<br/><details><summary>View Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2120289881389953164.webp" width="220" /> | **Missile Guidance and Radar Evolution Video**<br/>Fable 5.5 produced a video explaining phased-array radar, ARH and CEC evolution, visually clear and impressive.<br/>*By @hk512u (2026-11-10)* | 🏷️ 实测验证 | [🔗 Original post](https://x.com/hk512u/status/2120289881389953164)<br/><details><summary>View Prompt</summary><pre>未公开</pre></details> |
@@ -182,6 +185,7 @@ An index of single-prompt animation, 3D and interactive tests of **Claude Fable 
 
 | Preview | Case & Summary | Stack & Status | Prompt / Links |
 | :--- | :--- | :--- | :--- |
+| <img src="assets/previews/2119859309698003069.webp" width="220" /> | **AI-Built Backrooms: No Exit**<br/>A hands-free voice-built Backrooms game made with Fable 5.5 in 2h10m; infinite rooms, tapes, and VHS-style scares.<br/>*By @0xRhinoX (2026-11-09)* | 🏷️ 实测验证 | [🔗 Original post](https://x.com/0xRhinoX/status/2119859309698003069) / [🕹️ Live demo](https://t.co/okDbokbSZR)<br/><details><summary>View Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2119861870588989676.webp" width="220" /> | **CRT TV Smash Physics Test**<br/>Same prompt generates a smashable old CRT TV; Fable 5.5 wins on fragment physics and flying pieces.<br/>*By @dromexa (2026-11-09)* | 🏷️ 实测验证 | [🔗 Original post](https://x.com/dromexa/status/2119861870588989676)<br/><details><summary>View Prompt</summary><pre>an old CRT TV you can smash with a hammer.</pre></details> |
 | <img src="assets/previews/2120852840520564823.webp" width="220" /> | **Sushi Game Animations with Fable 5.5**<br/>A month-long sushi game project shows Fable 5.5 producing impressively smooth and delightful animations.<br/>*By @redeses01 (2026-11-12)* | 🏷️ 实测验证 | [🔗 Original post](https://x.com/redeses01/status/2120852840520564823)<br/><details><summary>View Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2119909996645298519.webp" width="220" /> | **Fable 5.5 One-Prompt UE5 Racing Game**<br/>A single prompt reportedly produced a racing game in Unreal Engine 5, leaving the author stunned.<br/>*By @GPTabby (2026-11-09)* | `Unreal Engine 5`<br/>🏷️ 灰度路由/传闻 | [🔗 Original post](https://x.com/GPTabby/status/2119909996645298519)<br/><details><summary>View Prompt</summary><pre>未公开</pre></details> |

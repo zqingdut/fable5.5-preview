@@ -13,6 +13,8 @@
 
 | 预览 | Part | 标题 | 作者 | 耗时 | 成本 | 时长 | 日期 | 原帖 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="assets/previews/2119822824533532996.webp" width="160" /> | — | AI 从零生成牵牛花生长动画 | @camperaigg | — | — | 32.042s | 2026-11-09 | [链接](https://x.com/camperaigg/status/2119822824533532996) |
+| <img src="assets/previews/2119859309698003069.webp" width="160" /> | — | 语音造后室游戏 | @0xRhinoX | — | — | 18.005s | 2026-11-09 | [链接](https://x.com/0xRhinoX/status/2119859309698003069) |
 | <img src="assets/previews/2119861870588989676.webp" width="160" /> | — | 旧CRT电视锤击物理测试 | @dromexa | — | — | 14.083s | 2026-11-09 | [链接](https://x.com/dromexa/status/2119861870588989676) |
 | <img src="assets/previews/2120528609165083012.webp" width="160" /> | — | 未见阳光的伞 | @DaDw26 | — | — | 45.013s | 2026-11-11 | [链接](https://x.com/DaDw26/status/2120528609165083012) |
 |  | — | JavaScript 打造的 Fable 作品 | @LexnLin | — | — | — | 2026-11-12 | [链接](https://x.com/LexnLin/status/2120686766571040950) |
@@ -106,6 +108,7 @@
 
 | 预览 | 案例名称与摘要 | 技术栈 & 状态 | 原始 Prompt / 链接 |
 | :--- | :--- | :--- | :--- |
+| <img src="assets/previews/2119822824533532996.webp" width="220" /> | **AI 从零生成牵牛花生长动画**<br/>单 Prompt 生成32秒牵牛花动画，自动完成土壤、藤蔓与钢琴音效。<br/>*By @camperaigg (2026-11-09)* | `Blender` `Cycles` `Claude Code`<br/>🏷️ 实测验证 | [🔗 原推文](https://x.com/camperaigg/status/2119822824533532996)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2120528609165083012.webp" width="220" /> | **未见阳光的伞**<br/>Fable 5.5 用 p5.js 生成艺术动画，创意尚可但交付常令人困惑。<br/>*By @DaDw26 (2026-11-11)* | `p5.js`<br/>🏷️ 实测验证 | [🔗 原推文](https://x.com/DaDw26/status/2120528609165083012)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2119886268188536884.webp" width="220" /> | **Fable 5.5 动态剪辑**<br/>推文展示 Fable 5.5 生成的动态剪辑效果，未公开 Prompt 与链接。<br/>*By @SadAlbert10 (2026-11-09)* | 🏷️ 灰度路由/传闻 | [🔗 原推文](https://x.com/SadAlbert10/status/2119886268188536884)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2120289881389953164.webp" width="220" /> | **导弹制导与雷达演进视频**<br/>用 Fable 5.5 生成讲解相控阵雷达、ARH 与 CEC 的科普视频，直观又惊艳<br/>*By @hk512u (2026-11-10)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/hk512u/status/2120289881389953164)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
@@ -182,6 +185,7 @@
 
 | 预览 | 案例名称与摘要 | 技术栈 & 状态 | 原始 Prompt / 链接 |
 | :--- | :--- | :--- | :--- |
+| <img src="assets/previews/2119859309698003069.webp" width="220" /> | **语音造后室游戏**<br/>作者用语音指挥 Fable 5.5 两小时做出可玩后室游戏，含无限房间与 VHS 音效<br/>*By @0xRhinoX (2026-11-09)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/0xRhinoX/status/2119859309698003069) / [🕹️ 在线试玩](https://t.co/okDbokbSZR)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2119861870588989676.webp" width="220" /> | **旧CRT电视锤击物理测试**<br/>同一提示生成可锤击碎裂的旧CRT电视，碎片飞散物理效果优于Gemini。<br/>*By @dromexa (2026-11-09)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/dromexa/status/2119861870588989676)<br/><details><summary>查看 Prompt</summary><pre>an old CRT TV you can smash with a hammer.</pre></details> |
 | <img src="assets/previews/2120852840520564823.webp" width="220" /> | **寿司游戏动画惊艳**<br/>用 Fable 5.5 制作寿司小游戏，动画效果流畅出色。<br/>*By @redeses01 (2026-11-12)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/redeses01/status/2120852840520564823)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2119909996645298519.webp" width="220" /> | **一句话生成UE5赛车游戏**<br/>仅凭单条提示词生成虚幻引擎5赛车游戏，效果令人震惊<br/>*By @GPTabby (2026-11-09)* | `Unreal Engine 5`<br/>🏷️ 灰度路由/传闻 | [🔗 原推文](https://x.com/GPTabby/status/2119909996645298519)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
