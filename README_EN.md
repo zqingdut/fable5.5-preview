@@ -13,6 +13,7 @@ An index of single-prompt animation, 3D and interactive tests of **Claude Fable 
 
 | Preview | Part | Title | Author | Time | Cost | Length | Date | Post |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="assets/previews/2123379867714560264.webp" width="160" /> | — | Jensen Huang Says Our Company Is Thriving | @ChronoakF | — | — | 87.85s | 2026-11-19 | [Link](https://x.com/ChronoakF/status/2123379867714560264) |
 | <img src="assets/previews/2121995465054937447.webp" width="160" /> | — | One-Prompt 30s GTA-Style Film | @heistruthX | — | — | 30s | 2026-11-15 | [Link](https://x.com/heistruthX/status/2121995465054937447) |
 | <img src="assets/previews/2119822824533532996.webp" width="160" /> | — | AI Grows Morning Glory Animation | @camperaigg | — | — | 32.042s | 2026-11-09 | [Link](https://x.com/camperaigg/status/2119822824533532996) |
 | <img src="assets/previews/2119859309698003069.webp" width="160" /> | — | AI-Built Backrooms: No Exit | @0xRhinoX | — | — | 18.005s | 2026-11-09 | [Link](https://x.com/0xRhinoX/status/2119859309698003069) |
@@ -109,6 +110,7 @@ An index of single-prompt animation, 3D and interactive tests of **Claude Fable 
 
 | Preview | Case & Summary | Stack & Status | Prompt / Links |
 | :--- | :--- | :--- | :--- |
+| <img src="assets/previews/2123379867714560264.webp" width="220" /> | **Jensen Huang Says Our Company Is Thriving**<br/>A short clip made with Claude Fable 5.5 showing Jensen Huang declaring that the company is thriving.<br/>*By @ChronoakF (2026-11-19)* | `Claude Fable 5.5`<br/>🏷️ 实测验证 | [🔗 Original post](https://x.com/ChronoakF/status/2123379867714560264)<br/><details><summary>View Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2121995465054937447.webp" width="220" /> | **One-Prompt 30s GTA-Style Film**<br/>A 30-second GTA-style film generated from a single prompt with Fable 5.5, asking which version is better.<br/>*By @heistruthX (2026-11-15)* | 🏷️ 实测验证 | [🔗 Original post](https://x.com/heistruthX/status/2121995465054937447)<br/><details><summary>View Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2119822824533532996.webp" width="220" /> | **AI Grows Morning Glory Animation**<br/>One prompt generated a 32-second morning glory growth animation with 139,667 soil grains, vine wrapping, and piano leaf sounds.<br/>*By @camperaigg (2026-11-09)* | `Blender` `Cycles` `Claude Code`<br/>🏷️ 实测验证 | [🔗 Original post](https://x.com/camperaigg/status/2119822824533532996)<br/><details><summary>View Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2120528609165083012.webp" width="220" /> | **The Umbrella Who Never Saw the Sun**<br/>Fable 5.5 used p5.js for an artistic animation; creative output was often confusing to deliver.<br/>*By @DaDw26 (2026-11-11)* | `p5.js`<br/>🏷️ 实测验证 | [🔗 Original post](https://x.com/DaDw26/status/2120528609165083012)<br/><details><summary>View Prompt</summary><pre>未公开</pre></details> |

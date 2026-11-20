@@ -1,5 +1,30 @@
 [
   {
+    "id": "2123379867714560264",
+    "tweet_url": "https://x.com/ChronoakF/status/2123379867714560264",
+    "author": "@ChronoakF",
+    "category": "video_gen",
+    "category_name": "🎬 动画与视频生成",
+    "title": "黄仁勋称公司蒸蒸日上",
+    "summary": "用 Claude Fable 5.5 生成黄仁勋宣称公司蒸蒸日上的视频片段。",
+    "title_en": "Jensen Huang Says Our Company Is Thriving",
+    "summary_en": "A short clip made with Claude Fable 5.5 showing Jensen Huang declaring that the company is thriving.",
+    "prompt": "未公开",
+    "tech_stack": [
+      "Claude Fable 5.5"
+    ],
+    "demo_url": "",
+    "verification": "实测验证",
+    "preview_webp": "assets/previews/2123379867714560264.webp",
+    "video_url": "",
+    "duration_sec": 87.85,
+    "work_time": "",
+    "cost_usd": "",
+    "highlights": [],
+    "created_at": "2026-11-19",
+    "prompt_source": ""
+  },
+  {
     "id": "2121995465054937447",
     "tweet_url": "https://x.com/heistruthX/status/2121995465054937447",
     "author": "@heistruthX",

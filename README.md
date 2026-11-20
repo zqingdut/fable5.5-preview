@@ -13,6 +13,7 @@
 
 | 预览 | Part | 标题 | 作者 | 耗时 | 成本 | 时长 | 日期 | 原帖 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="assets/previews/2123379867714560264.webp" width="160" /> | — | 黄仁勋称公司蒸蒸日上 | @ChronoakF | — | — | 87.85s | 2026-11-19 | [链接](https://x.com/ChronoakF/status/2123379867714560264) |
 | <img src="assets/previews/2121995465054937447.webp" width="160" /> | — | 30秒GTA风单提示短片 | @heistruthX | — | — | 30s | 2026-11-15 | [链接](https://x.com/heistruthX/status/2121995465054937447) |
 | <img src="assets/previews/2119822824533532996.webp" width="160" /> | — | AI 从零生成牵牛花生长动画 | @camperaigg | — | — | 32.042s | 2026-11-09 | [链接](https://x.com/camperaigg/status/2119822824533532996) |
 | <img src="assets/previews/2119859309698003069.webp" width="160" /> | — | 语音造后室游戏 | @0xRhinoX | — | — | 18.005s | 2026-11-09 | [链接](https://x.com/0xRhinoX/status/2119859309698003069) |
@@ -109,6 +110,7 @@
 
 | 预览 | 案例名称与摘要 | 技术栈 & 状态 | 原始 Prompt / 链接 |
 | :--- | :--- | :--- | :--- |
+| <img src="assets/previews/2123379867714560264.webp" width="220" /> | **黄仁勋称公司蒸蒸日上**<br/>用 Claude Fable 5.5 生成黄仁勋宣称公司蒸蒸日上的视频片段。<br/>*By @ChronoakF (2026-11-19)* | `Claude Fable 5.5`<br/>🏷️ 实测验证 | [🔗 原推文](https://x.com/ChronoakF/status/2123379867714560264)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2121995465054937447.webp" width="220" /> | **30秒GTA风单提示短片**<br/>用单个Prompt让Fable 5.5生成30秒GTA风格电影，并询问哪个版本更好。<br/>*By @heistruthX (2026-11-15)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/heistruthX/status/2121995465054937447)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2119822824533532996.webp" width="220" /> | **AI 从零生成牵牛花生长动画**<br/>单 Prompt 生成32秒牵牛花动画，自动完成土壤、藤蔓与钢琴音效。<br/>*By @camperaigg (2026-11-09)* | `Blender` `Cycles` `Claude Code`<br/>🏷️ 实测验证 | [🔗 原推文](https://x.com/camperaigg/status/2119822824533532996)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2120528609165083012.webp" width="220" /> | **未见阳光的伞**<br/>Fable 5.5 用 p5.js 生成艺术动画，创意尚可但交付常令人困惑。<br/>*By @DaDw26 (2026-11-11)* | `p5.js`<br/>🏷️ 实测验证 | [🔗 原推文](https://x.com/DaDw26/status/2120528609165083012)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
