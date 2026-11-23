@@ -1,5 +1,32 @@
 [
   {
+    "id": "2124497510722879653",
+    "tweet_url": "https://x.com/semichenkko/status/2124497510722879653",
+    "author": "@semichenkko",
+    "category": "video_gen",
+    "category_name": "🎬 动画与视频生成",
+    "title": "东京像素堆叠动画",
+    "summary": "24秒程序化像素堆叠东京夜景，霓虹、列车与浮岛细节丰富。",
+    "title_en": "Sprite-Stacked Tokyo Night Animation",
+    "summary_en": "A 24-second procedural pixel-stacked Tokyo night animation with neon, trains, and a floating island.",
+    "prompt": "Build one self-contained HTML file: ~24s pixel-art voxel animation of night Tokyo with sprite stacking. 1920x1080, 30fps, autoplay, fully procedural, + button to record canvas to WebM.\n\nSTYLE: voxel sprite-stacking (2D slices stacked 1px apart), isometric 30°/45°, nearest-neighbor, 3-tone shading, 1px outlines, soft shadows. Day: warm cream bg. Night: navy sky + glowing neon/windows/headlights with bloom.\n\nPART 1 (0-5s) – Hero builds (each alone, then hard cut):\n1. Tokyo Tower (orange-white lattice, observatories, antenna)\n2. Traffic light + zebra crossing\n3. Shinkansen nose (white, blue stripe)\nBuild: top piece appears first (top-down), grows bottom-up in 5-8 ladder steps (pop + gap + new slices), camera lowers to front then 3/4 isometric. Pop sound per step.\n\nPART 2 (5-15s) – City assembly:\nShinkansen on elevated track near Shibuya. Camera pulls back as city builds: scramble crossing, 150+ pedestrians, taxis/buses, buildings rise slice-by-slice (109-style tower, glass towers, izakaya alleys, konbini, shrine with torii). Utility poles + wires. Yamanote train. Tokyo Tower rises last with big shake.\n\nPART 3 (15-18s) – Neon night:\nSky snaps to night. Neon signs, billboards, screens, konbini, windows, lanterns, Tokyo Tower light up one by one with flicker. Wet street reflections. Headlights on.\n\nPART 4 (18-20s) – Full Shinkansen streaks past with light trails.\n\nPART 5 (20-24s) – Floating island:\nCamera pulls back. City becomes floating island. Rock strata + roots underneath, river waterfalls off edges. Small floating islets (sakura, ramen stall, torii, vending machine). Lanterns, stars, clouds. Gentle bob at the end.\n\nSound: lo-fi beat, pops, dust thuds, neon buzzes, train whoosh, crossing chime.",
+    "tech_stack": [
+      "HTML5",
+      "Canvas",
+      "WebM"
+    ],
+    "demo_url": "",
+    "verification": "实测验证",
+    "preview_webp": "assets/previews/2124497510722879653.webp",
+    "video_url": "",
+    "duration_sec": 25,
+    "work_time": "",
+    "cost_usd": "",
+    "highlights": [],
+    "created_at": "2026-11-22",
+    "prompt_source": "thread"
+  },
+  {
     "id": "2123379867714560264",
     "tweet_url": "https://x.com/ChronoakF/status/2123379867714560264",
     "author": "@ChronoakF",
