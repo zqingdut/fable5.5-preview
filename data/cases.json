@@ -1,5 +1,28 @@
 [
   {
+    "id": "2124835745747894628",
+    "tweet_url": "https://x.com/itssotsot/status/2124835745747894628",
+    "author": "@itssotsot",
+    "category": "video_gen",
+    "category_name": "🎬 动画与视频生成",
+    "title": "Fable 5.5 高思考同提示对比",
+    "summary": "作者用完全相同的提示词与高思考档位运行 Fable 5.5，并邀请观众对比另一模型的生成结果。",
+    "title_en": "Fable 5.5 High Effort Same-Prompt Comparison",
+    "summary_en": "Author runs Fable 5.5 on high effort with an identical prompt and asks viewers which output they prefer.",
+    "prompt": "未公开",
+    "tech_stack": [],
+    "demo_url": "",
+    "verification": "实测验证",
+    "preview_webp": "assets/previews/2124835745747894628.webp",
+    "video_url": "",
+    "duration_sec": 30.5,
+    "work_time": "",
+    "cost_usd": "",
+    "highlights": [],
+    "created_at": "2026-11-23",
+    "prompt_source": ""
+  },
+  {
     "id": "2124497510722879653",
     "tweet_url": "https://x.com/semichenkko/status/2124497510722879653",
     "author": "@semichenkko",
