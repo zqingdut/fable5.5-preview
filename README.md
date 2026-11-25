@@ -13,6 +13,7 @@
 
 | 预览 | Part | 标题 | 作者 | 耗时 | 成本 | 时长 | 日期 | 原帖 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|  | — | 雨林熊猫 SVG 对比 | @legit_api | — | — | — | 2026-11-24 | [链接](https://x.com/legit_api/status/2125215156380557656) |
 | <img src="assets/previews/2124835745747894628.webp" width="160" /> | — | Fable 5.5 高思考同提示对比 | @itssotsot | — | — | 30.5s | 2026-11-23 | [链接](https://x.com/itssotsot/status/2124835745747894628) |
 | <img src="assets/previews/2124497510722879653.webp" width="160" /> | — | 东京像素堆叠动画 | @semichenkko | — | — | 25s | 2026-11-22 | [链接](https://x.com/semichenkko/status/2124497510722879653) |
 | <img src="assets/previews/2123379867714560264.webp" width="160" /> | — | 黄仁勋称公司蒸蒸日上 | @ChronoakF | — | — | 87.85s | 2026-11-19 | [链接](https://x.com/ChronoakF/status/2123379867714560264) |
@@ -208,6 +209,7 @@
 
 | 预览 | 案例名称与摘要 | 技术栈 & 状态 | 原始 Prompt / 链接 |
 | :--- | :--- | :--- | :--- |
+| 暂无预览 | **雨林熊猫 SVG 对比**<br/>对比多个模型生成雨林熊猫 SVG，Fable 5.5 效果来自一个月前实测。<br/>*By @legit_api (2026-11-24)* | `SVG`<br/>🏷️ 实测验证 | [🔗 原推文](https://x.com/legit_api/status/2125215156380557656)<br/><details><summary>查看 Prompt</summary><pre>an SVG of pandas in a rainy bamboo forest</pre></details> |
 | <img src="assets/previews/2120333128711733707.webp" width="220" /> | **SplatMaker 新体验**<br/>作者用 Fable 5.5 打磨 SplatMaker Beta3，体验渐佳。<br/>*By @tommyoshima (2026-11-11)* | `Claude Code`<br/>🏷️ 实测验证 | [🔗 原推文](https://x.com/tommyoshima/status/2120333128711733707)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2116878661035106515.webp" width="220" /> | **Fable 5.5 一次成型佳作**<br/>仅凭引用推文作参考，Fable 5.5 一次生成美观且富有想法的作品。<br/>*By @chetaslua (2026-11-01)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/chetaslua/status/2116878661035106515)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2116893197939224714.webp" width="220" /> | **Fable完胜Opus**<br/>同提示词让模型自选风格，Fable 5.5 全面胜过 Opus 5.5。<br/>*By @notjazii (2026-11-01)* | 🏷️ 实测验证 | [🔗 原推文](https://x.com/notjazii/status/2116893197939224714)<br/><details><summary>查看 Prompt</summary><pre>未公开</pre></details> |

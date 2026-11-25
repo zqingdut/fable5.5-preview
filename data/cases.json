@@ -1,5 +1,30 @@
 [
   {
+    "id": "2125215156380557656",
+    "tweet_url": "https://x.com/legit_api/status/2125215156380557656",
+    "author": "@legit_api",
+    "category": "shader_ui",
+    "category_name": "🎨 前端 UI 与 Shader 特效",
+    "title": "雨林熊猫 SVG 对比",
+    "summary": "对比多个模型生成雨林熊猫 SVG，Fable 5.5 效果来自一个月前实测。",
+    "title_en": "Pandas in Rainy Bamboo Forest SVG",
+    "summary_en": "Compared multiple models generating an SVG of pandas in a rainy bamboo forest; the Fable 5.5 output is from a month-old test.",
+    "prompt": "an SVG of pandas in a rainy bamboo forest",
+    "tech_stack": [
+      "SVG"
+    ],
+    "demo_url": "",
+    "verification": "实测验证",
+    "preview_webp": "",
+    "video_url": "",
+    "duration_sec": null,
+    "work_time": "",
+    "cost_usd": "",
+    "highlights": [],
+    "created_at": "2026-11-24",
+    "prompt_source": "main"
+  },
+  {
     "id": "2124835745747894628",
     "tweet_url": "https://x.com/itssotsot/status/2124835745747894628",
     "author": "@itssotsot",
