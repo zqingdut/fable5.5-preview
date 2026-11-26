@@ -1,5 +1,28 @@
 [
   {
+    "id": "2125317347376550373",
+    "tweet_url": "https://x.com/sas1kkk/status/2125317347376550373",
+    "author": "@sas1kkk",
+    "category": "shader_ui",
+    "category_name": "🎨 前端 UI 与 Shader 特效",
+    "title": "5分钟编织千丝水母",
+    "summary": "单提示词5分钟生成72股+560根纤维、6.6万顶点水母动画，30fps。",
+    "title_en": "Jellyfish Woven from Thousands of Threads",
+    "summary_en": "One prompt generated a 72-strand, 560-fiber jellyfish with 66k vertices at 30 fps in five minutes, no manual pixels.",
+    "prompt": "未公开",
+    "tech_stack": [],
+    "demo_url": "",
+    "verification": "实测验证",
+    "preview_webp": "assets/previews/2125317347376550373.webp",
+    "video_url": "",
+    "duration_sec": 25.133,
+    "work_time": "",
+    "cost_usd": "",
+    "highlights": [],
+    "created_at": "2026-11-24",
+    "prompt_source": ""
+  },
+  {
     "id": "2125215156380557656",
     "tweet_url": "https://x.com/legit_api/status/2125215156380557656",
     "author": "@legit_api",

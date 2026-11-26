@@ -13,6 +13,7 @@ An index of single-prompt animation, 3D and interactive tests of **Claude Fable 
 
 | Preview | Part | Title | Author | Time | Cost | Length | Date | Post |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| <img src="assets/previews/2125317347376550373.webp" width="160" /> | — | Jellyfish Woven from Thousands of Threads | @sas1kkk | — | — | 25.133s | 2026-11-24 | [Link](https://x.com/sas1kkk/status/2125317347376550373) |
 |  | — | Pandas in Rainy Bamboo Forest SVG | @legit_api | — | — | — | 2026-11-24 | [Link](https://x.com/legit_api/status/2125215156380557656) |
 | <img src="assets/previews/2124835745747894628.webp" width="160" /> | — | Fable 5.5 High Effort Same-Prompt Comparison | @itssotsot | — | — | 30.5s | 2026-11-23 | [Link](https://x.com/itssotsot/status/2124835745747894628) |
 | <img src="assets/previews/2124497510722879653.webp" width="160" /> | — | Sprite-Stacked Tokyo Night Animation | @semichenkko | — | — | 25s | 2026-11-22 | [Link](https://x.com/semichenkko/status/2124497510722879653) |
@@ -209,6 +210,7 @@ An index of single-prompt animation, 3D and interactive tests of **Claude Fable 
 
 | Preview | Case & Summary | Stack & Status | Prompt / Links |
 | :--- | :--- | :--- | :--- |
+| <img src="assets/previews/2125317347376550373.webp" width="220" /> | **Jellyfish Woven from Thousands of Threads**<br/>One prompt generated a 72-strand, 560-fiber jellyfish with 66k vertices at 30 fps in five minutes, no manual pixels.<br/>*By @sas1kkk (2026-11-24)* | 🏷️ 实测验证 | [🔗 Original post](https://x.com/sas1kkk/status/2125317347376550373)<br/><details><summary>View Prompt</summary><pre>未公开</pre></details> |
 | No preview | **Pandas in Rainy Bamboo Forest SVG**<br/>Compared multiple models generating an SVG of pandas in a rainy bamboo forest; the Fable 5.5 output is from a month-old test.<br/>*By @legit_api (2026-11-24)* | `SVG`<br/>🏷️ 实测验证 | [🔗 Original post](https://x.com/legit_api/status/2125215156380557656)<br/><details><summary>View Prompt</summary><pre>an SVG of pandas in a rainy bamboo forest</pre></details> |
 | <img src="assets/previews/2120333128711733707.webp" width="220" /> | **SplatMaker Beta3 Tool-Making Experience**<br/>Author iterates SplatMaker Beta3 with Claude Fable 5.5, calling tool-making fun despite a bumpy ride.<br/>*By @tommyoshima (2026-11-11)* | `Claude Code`<br/>🏷️ 实测验证 | [🔗 Original post](https://x.com/tommyoshima/status/2120333128711733707)<br/><details><summary>View Prompt</summary><pre>未公开</pre></details> |
 | <img src="assets/previews/2116878661035106515.webp" width="220" /> | **Fable 5.5 One-Shots Beautiful Thoughtful Creation**<br/>Using only a quoted tweet as reference, Fable 5.5 one-shotted a beautiful, thoughtful creation with all ideas its own.<br/>*By @chetaslua (2026-11-01)* | 🏷️ 实测验证 | [🔗 Original post](https://x.com/chetaslua/status/2116878661035106515)<br/><details><summary>View Prompt</summary><pre>未公开</pre></details> |
